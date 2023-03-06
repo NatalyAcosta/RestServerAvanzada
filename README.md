@@ -1,6 +1,6 @@
 # PROYECTO ENFOCADO A UN ENTORNO FARMACEUTICO
 ## RestServerAvanzada
-*Con Restserver, puede crear servicios web que interactúen con otras aplicaciones mediante HTTP* <br>
+*Con Restserver, puede crear servicios web que interactúen con otras aplicaciones mediante nnnHTTP* <br>
 
 **Instalar dependencias** <br>
 *npm install* <br>
